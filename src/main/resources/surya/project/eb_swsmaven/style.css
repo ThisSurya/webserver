@@ -1,0 +1,12 @@
+.startbutton {
+    --fxbackground-color: #87eba4;
+
+}
+
+.stopbutton {
+    --fxbackground-color: #eba487;
+}
+
+.configbutton{
+    --fxbackground-color: #ebd687;
+}
